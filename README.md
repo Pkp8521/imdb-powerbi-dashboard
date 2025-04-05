@@ -34,6 +34,5 @@ This repository contains a cleaned version of the IMDB Movie dataset and a fully
 # Power BI Desktop
 ![Screenshot 2025-04-05 174728](https://github.com/user-attachments/assets/afc2692e-a617-4e24-ab4d-965911a287ea)
 
-# Cleaning part jupyter noteboo
 
 
